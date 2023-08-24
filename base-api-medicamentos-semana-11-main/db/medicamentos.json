@@ -1,0 +1,60 @@
+{
+  "medicamentos": [
+    {
+      "id": 1,
+      "preco": 5,
+      "nome": "Dipirona",
+      "laboratorio": "Clamed",
+      "favorito": true
+    },
+    {
+      "id": "f6aefcc9-14e2-424d-ba06-e883c5a3c08a",
+      "nome": "dipirona",
+      "laboratorio": "clamed",
+      "preco": "20",
+      "favorito": true
+    },
+    {
+      "id": "30d1335c-e6ea-42f4-b87b-4a9d7d23ed8c",
+      "nome": "dipirona",
+      "laboratorio": "clamed",
+      "preco": "20",
+      "favorito": false
+    },
+    {
+      "id": "d1344f63-108c-4d5d-89ec-7df84f2d9ef4",
+      "nome": "dipirona",
+      "laboratorio": "clamed",
+      "preco": "20",
+      "favorito": false
+    },
+    {
+      "id": "5869e769-7d90-4f96-bb92-7276482b7fd1",
+      "nome": "cefalexina",
+      "laboratorio": "souza cruz",
+      "preco": "15",
+      "favorito": false
+    },
+    {
+      "id": "e07f39b3-ec4f-451f-9ab0-29b017f26742",
+      "nome": "cefalexina",
+      "laboratorio": "souza cruz",
+      "preco": "15",
+      "favorito": false
+    },
+    {
+      "id": "42b79bba-b54a-49d9-84bd-1dc0231932ff",
+      "nome": "propiosol",
+      "laboratorio": "clamed",
+      "preco": "5",
+      "favorito": false
+    },
+    {
+      "id": "4d6c22a8-1448-4ba4-8cf9-78ac57ace9da",
+      "nome": "soro fisiologico",
+      "laboratorio": "clamed",
+      "preco": "10",
+      "favorito": false
+    }
+  ]
+}
